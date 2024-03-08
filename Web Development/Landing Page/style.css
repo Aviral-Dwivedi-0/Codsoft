@@ -42,9 +42,10 @@ background-color: transparent;
 }
 .paragraph5{
     font-size: 20px;
-    font-family:Courier;
+    font-family: sans-serif;
     margin: 30px;
-    color: white;
+    color: black;
+    font-style: normal;
 }
 
 
